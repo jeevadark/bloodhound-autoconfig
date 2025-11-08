@@ -328,7 +328,7 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ### Development Setup
 ```bash
-git clone https://github.com/yourusername/bloodhound-autoconfig.git
+git clone https://github.com/jeevadark/bloodhound-autoconfig.git
 cd bloodhound-autoconfig
 
 # Run tests (if available)
@@ -363,8 +363,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 For questions, issues, or suggestions:
 - Open an issue on GitHub
-- Contact: your.email@example.com
-- Twitter: @yourusername
+- Contact: ---
+- Twitter: ---
 
 ## ⚖️ Disclaimer
 
