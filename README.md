@@ -39,7 +39,7 @@ When performing Active Directory penetration testing on **large networks (1000+ 
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/bloodhound-autoconfig.git
+git clone https://github.com/jeevadark/bloodhound-autoconfig.git
 cd bloodhound-autoconfig
 
 # Make executable
