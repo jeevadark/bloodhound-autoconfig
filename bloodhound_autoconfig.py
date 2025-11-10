@@ -290,7 +290,7 @@ def print_banner():
 ║                                                                  ║
 ║              BloodHound-AutoConfig v1.0                          ║
 ║         Automated DC Discovery & Command Generator               ║
-║                          (DECLINE)                                        ║
+║                                                                 ║
 ║  For large-scale Active Directory penetration testing           ║
 ║  Processes 1000+ IPs and extracts exact DC information          ║
 ║                                                                  ║
