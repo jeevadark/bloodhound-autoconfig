@@ -3,7 +3,7 @@
 BloodHound-AutoConfig v1.0
 Automated Domain Controller Discovery and BloodHound Command Generator
 
-Author: Jeeva S (DECLINE)
+Author: Jeeva S ()
 GitHub: https://github.com/jeevadark/bloodhound-autoconfig
 License: MIT
 
